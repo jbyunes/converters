@@ -1,0 +1,490 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 1.71
+xmax = 824.02
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+       class = "IntervalTier"
+       name = "words"
+       xmin = 1.71
+       xmax = 824.02
+       intervals: size = 119
+       intervals [1]:
+           xmin = 1.71
+           xmax = 8.69
+           text = "And welcome back to Pronunciation with Emma. In today's video I'm going to give you a complete"
+       intervals [2]:
+           xmin = 8.69
+           xmax = 13.89
+           text = "masterclass on sentence stress and intonation in English. Make sure you stay until the end of the"
+       intervals [3]:
+           xmin = 13.89
+           xmax = 18.29
+           text = "video because I have a really nice surprise for you that will help you practice sentence stress"
+       intervals [4]:
+           xmin = 18.29
+           xmax = 24.45
+           text = "and intonation more and get feedback on it. So let's start firstly with what kind of stress"
+       intervals [5]:
+           xmin = 24.45
+           xmax = 30.53
+           text = "English uses. English is a stress time language and this basically means that you give certain"
+       intervals [6]:
+           xmin = 30.53
+           xmax = 36.93
+           text = "words, which we'll talk about in a moment, more stress and more emphasis when other words are"
+       intervals [7]:
+           xmin = 36.93
+           xmax = 42.05
+           text = "weakened. They sound a lot softer. This is why when you're watching something with subtitles,"
+       intervals [8]:
+           xmin = 42.05
+           xmax = 47.49
+           text = "for example, you understand everything and then you turn off the subtitles and you think,"
+       intervals [9]:
+           xmin = 47.49
+           xmax = 52.11
+           text = "what? What was that word? That sounded like a really long word. But actually when you put the"
+       intervals [10]:
+           xmin = 52.11
+           xmax = 58.03
+           text = "subtitles back on and you take a look, it actually turns out to be these little words all squished"
+       intervals [11]:
+           xmin = 58.03
+           xmax = 64.03
+           text = "together and said very quickly and that's because of sentence stress. We can compare a stress time"
+       intervals [12]:
+           xmin = 64.03
+           xmax = 69.79
+           text = "language to, for example, a syllable time language. A syllable time language basically gives each"
+       intervals [13]:
+           xmin = 69.79
+           xmax = 75.47
+           text = "syllable approximately the same amount of time. We can also compare it to mora time languages,"
+       intervals [14]:
+           xmin = 75.47
+           xmax = 81.07
+           text = "for example, Japanese. So if you're a Japanese speaker, congrats, you speak a mora time language."
+       intervals [15]:
+           xmin = 81.07
+           xmax = 87.23
+           text = "This is very similar in essence to syllable time languages where you give each mora the same amount"
+       intervals [16]:
+           xmin = 87.23
+           xmax = 92.99
+           text = "of time. I still remember when I was at university, a lecturer of mine described mora timing and"
+       intervals [17]:
+           xmin = 92.99
+           xmax = 99.07
+           text = "syllable time languages like machine guns, it's like da-da-da-da-da-da-da-da-da. While English is more like"
+       intervals [18]:
+           xmin = 99.07
+           xmax = 106.27
+           text = "ba-ba-ba-ba-ba, ba-ba-ba, ba-ba-ba-ba-ba. And that's because we give certain words more stress"
+       intervals [19]:
+           xmin = 106.27
+           xmax = 111.63
+           text = "in a language like English. So let me give you an example of what I mean. Let's take this exercise"
+       intervals [20]:
+           xmin = 111.63
+           xmax = 116.43
+           text = "here. Very simple one, okay. I hope you can count to four because that's all you need to do right now."
+       intervals [21]:
+           xmin = 117.23
+           xmax = 126.46
+           text = "So we've got 1, 2, 3, 4. Okay? That's the rhythm we're going to follow. 1, 2, 3, 4."
+       intervals [22]:
+           xmin = 126.46
+           xmax = 135.32
+           text = "Let's try adding some words in between. For example, 1 and 2 and 3 and 4. Now notice what"
+       intervals [23]:
+           xmin = 135.32
+           xmax = 145.97
+           text = "I did. I didn't say 1 and 2 and 3 and 4. I didn't stress and. I only stressed the numbers."
+       intervals [24]:
+           xmin = 145.97
+           xmax = 156.06
+           text = "And was weakened to and. So not and, but and. We're using a weak form here. 1 and 2 and"
+       intervals [25]:
+           xmin = 156.06
+           xmax = 166.23
+           text = "3 and 4. Let's add another word in there. 1 and a 2 and a 3 and a 4. 1 and a 2 and a"
+       intervals [26]:
+           xmin = 166.23
+           xmax = 174.65
+           text = "3 and a 4. Again, I'm not saying 1 and a 2 and a 3 and a 4. Okay? That's quite tiring"
+       intervals [27]:
+           xmin = 174.65
+           xmax = 181.25
+           text = "and my poor hand is gonna start hurting in a moment. But you see what I mean. So in English"
+       intervals [28]:
+           xmin = 181.25
+           xmax = 186.41
+           text = "we don't stress every single word. We're going to stress the numbers because they're important"
+       intervals [29]:
+           xmin = 186.41
+           xmax = 192.81
+           text = "here in this exercise. But the and and a are going to be weakened to and a. We're going"
+       intervals [30]:
+           xmin = 192.81
+           xmax = 200.37
+           text = "to join them together. And a. And a. 1 and a 2 and a 3 and a 4. Now let's apply this"
+       intervals [31]:
+           xmin = 200.37
+           xmax = 209.49
+           text = "same rule to a proper sentence. So here I've got, I want a cup of tea. I want a cup of"
+       intervals [32]:
+           xmin = 209.49
+           xmax = 217.29
+           text = "tea. So notice I'm not saying, I want a cup of tea. It's not all stress. I want a cup"
+       intervals [33]:
+           xmin = 217.29
+           xmax = 222.65
+           text = "of tea. Now when it comes to intonation, we're going to raise our pitch slightly on those"
+       intervals [34]:
+           xmin = 222.65
+           xmax = 227.89
+           text = "stressed words. So we're not going to read it all monotone like, I want a cup of tea."
+       intervals [35]:
+           xmin = 227.89
+           xmax = 233.49
+           text = "Okay? It sounds very robotic in English if you do that. You'll be understood, but to"
+       intervals [36]:
+           xmin = 233.49
+           xmax = 239.75
+           text = "another person's ear it will sound quite robotic. So raise your pitch on those stressed words."
+       intervals [37]:
+           xmin = 239.75
+           xmax = 247.01
+           text = "I want a cup of tea. I want a cup of tea. Now you're probably thinking, great Emma,"
+       intervals [38]:
+           xmin = 247.01
+           xmax = 251.35
+           text = "understood that, but which words are stressed and which ones are unstressed? I have a handy"
+       intervals [39]:
+           xmin = 251.35
+           xmax = 256.77
+           text = "table for you. What we can do is categorise English words into two different groups. Our"
+       intervals [40]:
+           xmin = 256.81
+           xmax = 264.13
+           text = "content words and function words. To name a few content words, nouns, adverbs, adjectives,"
+       intervals [41]:
+           xmin = 264.13
+           xmax = 272.05
+           text = "verbs, question words, and negative, auxiliary, modal, and negative words in general. For our"
+       intervals [42]:
+           xmin = 272.05
+           xmax = 279.49
+           text = "function words, we have articles, auxiliary verbs, modal verbs, the verb to be, pronouns,"
+       intervals [43]:
+           xmin = 279.49
+           xmax = 286.69
+           text = "prepositions, and conjunctions, otherwise known as connectives. So if we go back to our original"
+       intervals [44]:
+           xmin = 286.69
+           xmax = 297.28
+           text = "sentence, I want a cup of tea, we have I, it's a pronoun, want, verb, a, article, cup, noun, of,"
+       intervals [45]:
+           xmin = 297.28
+           xmax = 304.78
+           text = "preposition, tea, noun. So you can see here how it follows that list that I gave before."
+       intervals [46]:
+           xmin = 304.78
+           xmax = 310.78
+           text = "Now let's change our sentence a little bit. I would like a cup of tea. This time we've got"
+       intervals [47]:
+           xmin = 310.78
+           xmax = 315.98
+           text = "the pronoun, right, it's the same as before, pronoun, then we've got would, we've got a modal"
+       intervals [48]:
+           xmin = 315.98
+           xmax = 324.42
+           text = "verb, but notice I'm not saying I would like. I weaken it. I would like. So would becomes would."
+       intervals [49]:
+           xmin = 325.06
+           xmax = 332.64
+           text = "I would like. Like is a verb. I would like. It's the same after that actually, it's the first"
+       intervals [50]:
+           xmin = 332.64
+           xmax = 342.48
+           text = "sentence. So we have the article, a, cup, noun, of, preposition, and tea, the noun. Let's take a look"
+       intervals [51]:
+           xmin = 342.48
+           xmax = 349.87
+           text = "at this one together. Which of these words do you think will be stressed? Okay, you can pause,"
+       intervals [52]:
+           xmin = 350.43
+           xmax = 361.42
+           text = "have a think. She will be late to the party. She will be late to the party. So again, she,"
+       intervals [53]:
+           xmin = 361.98
+           xmax = 369.42
+           text = "pronoun, will is our modal verb, and we don't usually stress modal verbs. She will be late."
+       intervals [54]:
+           xmin = 370.42
+           xmax = 379.38
+           text = "Late is an adjective, to the, not to the, to the, preposition, article, party, noun."
+       intervals [55]:
+           xmin = 380.37
+           xmax = 386.61
+           text = "She will be late to the party. She will be late to the party. Here's another sentence,"
+       intervals [56]:
+           xmin = 386.61
+           xmax = 391.65
+           text = "a little bit longer to practise with. Which ones do you think will be stressed here? Feel free to"
+       intervals [57]:
+           xmin = 391.65
+           xmax = 400.42
+           text = "pause the video and take your time. Can you go to the shop and buy me some bread? Can you go"
+       intervals [58]:
+           xmin = 400.42
+           xmax = 407.71
+           text = "to the shop and buy me some bread? Can, remember, is a modal verb. We're not going to stress it."
+       intervals [59]:
+           xmin = 408.75
+           xmax = 419.17
+           text = "Can becomes can. Can you go? Can you go, not to the, to the, to the shop. Can you go to the shop"
+       intervals [60]:
+           xmin = 419.17
+           xmax = 427.09
+           text = "and buy me some bread? Some, strong form is some, gets weakened to a schwa. Can you go to the shop"
+       intervals [61]:
+           xmin = 427.09
+           xmax = 432.8
+           text = "and buy me some bread? Can you go to the shop and buy me some bread? Now, we sometimes break"
+       intervals [62]:
+           xmin = 432.8
+           xmax = 439.36
+           text = "this rule if the word is used for emphasis, contrast, if it's alone in a sentence, or sometimes"
+       intervals [63]:
+           xmin = 439.36
+           xmax = 445.04
+           text = "if it comes at the end of a sentence. So let's take this sentence here. Now, in normal sentence"
+       intervals [64]:
+           xmin = 445.04
+           xmax = 453.2
+           text = "stress, we could say, I asked her if she wanted fish and chips. I asked her, or asked, it's up to"
+       intervals [65]:
+           xmin = 453.2
+           xmax = 463.84
+           text = "you, or asked, asked. I asked her if she wanted fish and chips. Fish and chips. So not fish and"
+       intervals [66]:
+           xmin = 463.84
+           xmax = 470.4
+           text = "chips. Fish and chips. Okay? And gets weakened to an. But let's imagine the listener that we're"
+       intervals [67]:
+           xmin = 470.4
+           xmax = 476.0
+           text = "speaking to got a bit confused. They thought we said something else, so we need to clarify something."
+       intervals [68]:
+           xmin = 476.99
+           xmax = 487.79
+           text = "No, I said fish and chips, not fish or chips. Fish and chips, not fish or chips. Now, I'm giving stress"
+       intervals [69]:
+           xmin = 487.79
+           xmax = 495.47
+           text = "to and and or. Otherwise, naturally, it would be said as fish and chips and fisher chips. Fisher"
+       intervals [70]:
+           xmin = 495.47
+           xmax = 501.63
+           text = "chips, that sounds really weird, but it's what we would say. Now, for some extra practice and to talk"
+       intervals [71]:
+           xmin = 501.63
+           xmax = 506.11
+           text = "about the special surprise that I mentioned at the start of the video, we today are going to be"
+       intervals [72]:
+           xmin = 506.11
+           xmax = 512.59
+           text = "using the ELSA app. ELSA is a pronunciation app that focuses on pinpointing your mistakes with"
+       intervals [73]:
+           xmin = 512.59
+           xmax = 518.51
+           text = "pronunciation, and it gives you very, very specific corrections. We're going to go through it together."
+       intervals [74]:
+           xmin = 518.51
+           xmax = 523.71
+           text = "We're actually going to go through the unit on sentence stress today. Well, we're going to go"
+       intervals [75]:
+           xmin = 523.71
+           xmax = 530.27
+           text = "through the unit on intonation, I should say, which also covers sentence stress. So we're going to jump"
+       intervals [76]:
+           xmin = 530.27
+           xmax = 537.31
+           text = "down to the unit on intonation. Oh, there it is. OK, I'm going to skip that. We don't need that"
+       intervals [77]:
+           xmin = 537.31
+           xmax = 541.39
+           text = "because I've already explained it to you. You know the rules if you're paying attention to this video."
+       intervals [78]:
+           xmin = 541.39
+           xmax = 547.39
+           text = "Hopefully you were. We're going to go into the first exercise. I went to the store. Oh, OK, there we are."
+       intervals [79]:
+           xmin = 547.39
+           xmax = 553.71
+           text = "So this does focus primarily on American English, so I'm still going to do British English and you're"
+       intervals [80]:
+           xmin = 553.71
+           xmax = 559.07
+           text = "going to see how it marks my intonation and stress. Now, as I said, I'm going to speak using"
+       intervals [81]:
+           xmin = 559.63
+           xmax = 566.27
+           text = "my accent, which is not American, and this focuses on American English. But intonation in British and"
+       intervals [82]:
+           xmin = 566.27
+           xmax = 570.83
+           text = "American English is pretty much the same, so don't worry about that. Let's have a listen again."
+       intervals [83]:
+           xmin = 572.11
+           xmax = 578.83
+           text = "I went to the store. So we can also see it says emphasize went and store. So we're going to record"
+       intervals [84]:
+           xmin = 578.83
+           xmax = 584.03
+           text = "ourselves. I'm going to record myself. I want you to listen and practice at home. So are you ready?"
+       intervals [85]:
+           xmin = 584.91
+           xmax = 590.78
+           text = "I went. Oh, no, my network's not available. Let me turn on my Internet. OK, so now my Internet is"
+       intervals [86]:
+           xmin = 590.78
+           xmax = 602.54
+           text = "back on. Let's have a go. So I went to the store. Good job. Well done, me and hopefully you as well."
+       intervals [87]:
+           xmin = 602.54
+           xmax = 614.91
+           text = "What's good is you can also listen back in this. So this is great. You can listen back to your"
+       intervals [88]:
+           xmin = 614.91
+           xmax = 621.63
+           text = "recording and compare it to the original recording that's on the app. Let's try another one together."
+       intervals [89]:
+           xmin = 622.11
+           xmax = 633.89
+           text = "OK, ready? I'm glad you like it. Well done to us. Let's try a few more. Take a left at the light."
+       intervals [90]:
+           xmin = 637.84
+           xmax = 644.24
+           text = "Oh, I put too much stress on take. I would naturally stress take like take a left."
+       intervals [91]:
+           xmin = 645.12
+           xmax = 656.88
+           text = "Let's try and get it again. Take a left at the light. Take a left at the light. Oh, OK. We got"
+       intervals [92]:
+           xmin = 656.88
+           xmax = 666.32
+           text = "it. We got it. I have a lot to do, which is true. I do have a lot to do. I have a lot to do."
+       intervals [93]:
+           xmin = 670.11
+           xmax = 675.63
+           text = "Good job. Good job. How many more have we got? I'll give it a shot. We've got a few more. I think"
+       intervals [94]:
+           xmin = 675.63
+           xmax = 682.08
+           text = "this might be the last one. OK, let's see. Let me listen again. I'll give it a shot. Give it a shot."
+       intervals [95]:
+           xmin = 682.08
+           xmax = 689.04
+           text = "OK, so remember, she's American. She says shot. I'll give it a shot. Let's listen. Let's go."
+       intervals [96]:
+           xmin = 689.12
+           xmax = 698.56
+           text = "Oh, I'll give it a shot. Good. OK, we're doing well. We're doing well. Something else I really"
+       intervals [97]:
+           xmin = 698.56
+           xmax = 704.24
+           text = "like about this app is if you go to the bottom here, it should or I might need to scroll across."
+       intervals [98]:
+           xmin = 704.24
+           xmax = 710.32
+           text = "There we are. OK. It also gives you the phonemic transcription underneath. So as you can see,"
+       intervals [99]:
+           xmin = 710.32
+           xmax = 717.12
+           text = "it's got I'll give it a shot. Now, do remember, it is American English and the phonetic symbols"
+       intervals [100]:
+           xmin = 717.12
+           xmax = 722.64
+           text = "between British English and American English. Both of those charts, they are slightly different."
+       intervals [101]:
+           xmin = 722.64
+           xmax = 728.08
+           text = "It's just something to be aware of. But it gives you a really good guide on should it be a schwa?"
+       intervals [102]:
+           xmin = 728.08
+           xmax = 732.64
+           text = "Should it be something else? OK, I find that really handy. OK, we might have another one"
+       intervals [103]:
+           xmin = 732.64
+           xmax = 742.82
+           text = "after this. Oh, no. Calculate to my screen. What do you know? I am a pro. Well, that's a nice"
+       intervals [104]:
+           xmin = 742.82
+           xmax = 748.26
+           text = "confidence boost for today. So let me tell you a little bit more about this app because I have"
+       intervals [105]:
+           xmin = 748.26
+           xmax = 753.3
+           text = "something very special for you. For many of you who don't know, my boyfriend is Spanish, so I got"
+       intervals [106]:
+           xmin = 753.3
+           xmax = 758.26
+           text = "him to try out the app. So I tried it out from a teacher's perspective. He tried it out from a"
+       intervals [107]:
+           xmin = 758.26
+           xmax = 762.74
+           text = "learner's perspective and we both really enjoyed the app. One thing that my boyfriend found"
+       intervals [108]:
+           xmin = 762.74
+           xmax = 768.1
+           text = "particularly useful was how it gave instant feedback on very specific sounds. He really"
+       intervals [109]:
+           xmin = 768.1
+           xmax = 773.7
+           text = "liked that it would also explain how to pronounce the sound. He found this useful and it helped him"
+       intervals [110]:
+           xmin = 773.7
+           xmax = 779.22
+           text = "correct his speech so that when he did it again, he knew exactly what to do. Overall, Elsa is pretty"
+       intervals [111]:
+           xmin = 779.22
+           xmax = 785.22
+           text = "much like a little pronunciation teacher that you can carry around with you 24-7. So it gets my"
+       intervals [112]:
+           xmin = 785.22
+           xmax = 790.98
+           text = "thumbs up. I really enjoy this app. You can download the Elsa app completely for free using the link in"
+       intervals [113]:
+           xmin = 790.98
+           xmax = 795.86
+           text = "the description of this video. If you're serious about your pronunciation and you want to upgrade"
+       intervals [114]:
+           xmin = 795.86
+           xmax = 803.22
+           text = "the app, then Elsa are offering you 80% off their lifetime pack and 30% off their yearly pack."
+       intervals [115]:
+           xmin = 803.22
+           xmax = 807.22
+           text = "So if you really are serious about your pronunciation, you want that feedback, you want"
+       intervals [116]:
+           xmin = 807.22
+           xmax = 812.42
+           text = "that help, perhaps you want to compete with your friends and compare scores, things like that,"
+       intervals [117]:
+           xmin = 812.42
+           xmax = 817.94
+           text = "then Elsa is great for that. I highly recommend downloading it. That's it for today's lesson. I"
+       intervals [118]:
+           xmin = 817.94
+           xmax = 821.7
+           text = "hope you've enjoyed it and you've learned something new. I will see you next lesson."
+       intervals [119]:
+           xmin = 821.7
+           xmax = 824.02
+           text = "Enjoy the rest of your week. Bye-bye."
